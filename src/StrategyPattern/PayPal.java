@@ -1,3 +1,5 @@
+package StrategyPattern;
+
 public class PayPal implements RestaurantInterface{
 
     @Override

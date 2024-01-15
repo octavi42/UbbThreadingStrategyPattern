@@ -1,3 +1,5 @@
+package StrategyPattern;
+
 public class RestaurantService {
 
     private RestaurantInterface strategy;

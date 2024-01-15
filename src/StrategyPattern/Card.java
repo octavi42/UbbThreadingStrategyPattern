@@ -1,3 +1,5 @@
+package StrategyPattern;
+
 public class Card implements RestaurantInterface {
 
     @Override
